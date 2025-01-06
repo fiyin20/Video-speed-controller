@@ -6,7 +6,7 @@ body {
   min-height: 100vh;
   background: royalblue url("https://unsplash.it/1500/900?image=1021");
   background-size: cover;
-  font-family: sans-serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .wrapper {
